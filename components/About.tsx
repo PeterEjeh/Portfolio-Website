@@ -1,4 +1,3 @@
-
 import React from 'react';
 import AnimatedSection from './AnimatedSection';
 
@@ -23,8 +22,8 @@ const About: React.FC = () => {
         <div className="md:col-span-2 relative group w-full max-w-sm mx-auto">
             <div className="absolute -inset-0.5 bg-gradient-to-r from-teal-400 to-blue-500 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
             <img 
-                src="https://picsum.photos/seed/profile/500/500" 
-                alt="Peter I."
+                src="/images/profile.png" 
+                alt="Peter E."
                 className="relative rounded-lg w-full h-full object-cover"
             />
         </div>

@@ -110,7 +110,7 @@ export const SERVICES_DATA: Service[] = [
 
 export const PROJECTS_DATA: Project[] = [
     {
-        image: 'https://picsum.photos/seed/project1/400/300.webp',
+        image: '/images/project-retail-sales.png',
         title: 'Retail Sales Data Analysis',
         description: 'Performed exploratory data analysis on retail transactions to uncover sales trends and customer purchase patterns.',
         tags: ['Python', 'Pandas', 'Matplotlib'],
@@ -118,7 +118,7 @@ export const PROJECTS_DATA: Project[] = [
         codeUrl: '#'
     },
     {
-        image: 'https://picsum.photos/seed/project2/400/300.webp',
+        image: '/images/project-wine-quality.png',
         title: 'Wine Quality Prediction',
         description: 'Developed a machine learning model to predict wine quality based on physicochemical properties.',
         tags: ['Python', 'Scikit-learn', 'Pandas'],
@@ -126,7 +126,7 @@ export const PROJECTS_DATA: Project[] = [
         codeUrl: '#'
     },
     {
-        image: 'https://picsum.photos/seed/project3/400/300.webp',
+        image: '/images/project-fraud-detection.png',
         title: 'Fraud Detection System',
         description: 'Built a classification model to detect fraudulent financial transactions using anomaly detection techniques.',
         tags: ['Python', 'Scikit-learn'],
@@ -134,7 +134,7 @@ export const PROJECTS_DATA: Project[] = [
         codeUrl: '#'
     },
     {
-        image: 'https://picsum.photos/seed/project4/400/300.webp',
+        image: '/images/project-petesgram.png',
         title: 'PetesGram',
         description: 'A multimedia sharing web platform similar to Instagram, built with Django and Flutter for frontend.',
         tags: ['Django', 'Flutter', 'Bootstrap', 'AWS S3'],
@@ -142,7 +142,7 @@ export const PROJECTS_DATA: Project[] = [
         codeUrl: '#'
     },
     {
-        image: 'https://picsum.photos/seed/project5/400/300.webp',
+        image: '/images/project-poligrain.png',
         title: 'PoliGrain',
         description: 'A serverless agri-investment platform enabling investors and farmers to collaborate via smart contracts and AWS backend.',
         tags: ['Flutter', 'AWS Lambda', 'DynamoDB', 'API Gateway'],
@@ -150,7 +150,7 @@ export const PROJECTS_DATA: Project[] = [
         codeUrl: '#'
     },
     {
-        image: 'https://picsum.photos/seed/project6/400/300.webp',
+        image: '/images/project-greenbloc.png',
         title: 'GreenBloc',
         description: 'A blockchain-based crowdfunding suite promoting transparency in environmental and sustainability projects.',
         tags: ['Solidity', 'AWS', 'Python', 'Django'],
